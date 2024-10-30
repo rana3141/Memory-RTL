@@ -1,1 +1,1 @@
-Simple Single Port SRAM Memory with testbench and with handshaking mechanism.
+Simple Single Port Memory with testbench and with handshaking mechanism.
